@@ -1,0 +1,865 @@
+* {
+    font-family: 'Lato', 'arial', 'Helvetica', sans-serif; 
+}
+header{
+    background-image: url("../img/slide_1_3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-bottom: 28%;
+}
+.logo{
+    width: 9%;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+nav{
+    margin-left: 32%;
+    margin-top: -2%;
+}
+.menu{
+    text-decoration: none;
+    color: rgb(100, 100, 100);
+    font-family: 'Open Sans', 'Helvetica ', sans-serif;
+    margin-left: 2%;
+    letter-spacing: 3px;
+}
+h1{
+    font-family: 'Lato', 'arial', 'Helvetica', sans-serif; 
+    font-size: 30px ;
+    letter-spacing: 18px;
+    line-height: 59px;
+    color: rgb(100, 100, 100);
+    padding-left: 56%;
+    padding-top: 15%;
+    font-weight: 300
+}
+.im{
+    font-size: 39px;
+    margin-bottom: 0%;
+}
+.eve{
+    font-size: 40px;
+}
+.um,.dois,.texto1,.texto2{
+    display: flex;
+    flex-direction: row;
+   
+
+}
+.phone{
+    width: 109%;
+    margin-left: 40%;
+    margin-top: 50%;
+}
+.texto1{
+    margin-left: 51%;
+    margin-right: -29%;
+}
+.texto2{
+    margin-left: 51%;
+    margin-right: -29%;
+    margin-top: 5%;
+}
+.texto{
+    margin-left: 27%;
+    margin-top: 11%;
+    position: relative;
+    
+}
+h2{
+    color: rgb(104, 102, 102);
+    font-size: 55px;
+    text-align: left;
+    margin-left: -23%;
+    font-weight: 400;
+
+}
+.espaco{
+    border-bottom: 3px solid rgb(20, 20, 20);
+    width: 12%;
+    padding-bottom: 2%;
+}
+.trio1{
+    margin-right: 32%;
+    margin-left: -83%;
+}
+
+.ti1{
+    color: rgb(104, 102, 102);
+    font-size: 20px;
+    text-align: left;
+    line-height: 311%;
+
+}
+.ti2{
+    color: rgb(179, 179, 179);
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+}
+.kk{
+    position: absolute;
+    top: 53%;
+    left: -22%;
+
+}
+.kk1{
+    position: absolute;
+    top: 53%;
+    left: 52%;
+}
+.kk2{
+    position: absolute;
+    top: 81%;
+    left: -22%;
+}
+.kk3{
+    position: absolute;
+    top: 81%;
+    left: 52%;
+}
+h3{
+    color: rgb(104, 102, 102);
+    font-size: 55px;
+    text-align: left;
+    margin-left: 0%;
+    font-weight: 400;
+
+}
+.trio3{
+    margin-right: 32%;
+    margin-left: 16%;
+    margin-top: 10%;
+  
+}
+.texto3{
+    margin-left: 0%;
+    margin-right: 0%;
+    border-top: 1px solid rgb(201, 197, 197);
+}
+.texto4{
+    margin-bottom: 7px;
+    margin-top: 5%;
+    border-bottom: 1px solid rgb(201, 197, 197);
+}
+.fes2{
+    
+    width: 100%;
+    margin-top: 48%;
+}
+.fes3{
+    width: 100%;
+    margin-top: -10%;
+}
+.trio4{
+    position:absolute;
+    top: -28%;
+    left: 0%;
+    margin-right: 32%;
+    margin-left: 11%;
+    margin-top: 17%;
+    
+}
+.dois { 
+    position: relative;
+    margin-top: 10%;
+}
+.tres { 
+    display: flex;
+    flex-direction: row;
+    margin-right: 18%;
+}
+.texto5{
+    margin-left: 35%;
+    margin-top: 11%;
+    position: relative;
+    
+}
+.texto6{
+    margin-left: 51%;
+    margin-right: -29%;
+    display: flex;
+    flex-direction: row;
+}
+.texto7{
+    margin-left: -37%;
+    margin-right: -29%;
+    margin-top: 8%;
+    display: flex;
+    flex-direction: row;
+}
+.trio11{
+    margin-right: 6%;
+    margin-left: 23%;
+}
+.trio33{
+    margin-right: 6%;
+
+}
+.trio22{
+   
+    margin-left: 4%;
+}
+
+h4{
+    color: rgb(104, 102, 102);
+    font-size: 42px;
+    text-align: left;
+    margin-left: -105%;
+    font-weight: 400;
+    border-left: 3px solid rgb(20, 20, 20);
+    padding-left: 2%;
+    margin-top: 0%;
+}
+.ti11{
+    color: rgb(104, 102, 102);
+    font-size: 20px;
+    text-align: left;
+    margin-left: 24%;
+    margin-top: -11%;
+}
+.ti22{
+    color: rgb(179, 179, 179);
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: 31px;
+}
+.ti33{
+    color: rgb(104, 102, 102);
+    font-size: 15px;
+    text-align: left;
+    line-height: 311%;
+    margin-left: 40%;
+    font-weight: 400;
+}
+.kk4{
+    margin-top: 0%;
+}
+.quatro{
+    margin-top: 5%;
+    margin-left: -3%;
+}
+.sexteto,.sexteto1,.cinco{
+    display: flex;
+    flex-direction: row;
+}
+.foto{
+    width: 31%;
+    margin-left: 2.3%;
+    margin-bottom: 2%;
+}
+.faixa{
+    color: rgb(90, 90, 90);
+    font-size: 25px;
+    text-align: center;
+    line-height: 311%;
+    font-weight: 300;
+    background-color: rgb(202, 202, 204);
+    padding-top: 1%;
+    margin-top: -1%;
+}
+.faixa:hover{
+    background-color: rgb(193, 193, 194);
+    color: rgb(70, 70, 70);
+    cursor: pointer;
+}
+
+h5{
+    color: rgb(104, 102, 102);
+    font-size: 42px;
+    text-align: left;
+    font-weight: 400;
+    border-left: 3px solid rgb(20, 20, 20);
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.sexteto11,.sexteto22{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    margin-top: 2%;
+  
+}
+.foto1{
+    padding: 5%;
+    border-left: 1px solid rgb(182, 182, 182);
+    border-right: 1px solid rgb(182, 182, 182);
+    border-bottom: 1px solid rgb(182, 182, 182);
+}
+.foto2{
+    margin-top: -3%;
+    padding: 5%;
+    border-left: 1px solid rgb(182, 182, 182);
+    border-right: 1px solid rgb(182, 182, 182);
+    
+}
+.foto3{
+    margin-top: -3%;
+    padding: 5%;
+     
+}
+.foto4{
+    margin-top: -3%;
+    padding: 5%;    
+    border-bottom: 1px solid rgb(182, 182, 182);
+  
+}
+.ti44{
+    color: rgb(179, 179, 179);
+    font-size: 29px;
+    text-align: left;
+    font-weight: 300;
+    line-height: 35px;
+    margin-top: 70%;
+    margin-left: 39%;
+    margin-right: -41%;
+    margin-bottom: 2%
+}
+.seis { 
+    display: flex;
+    flex-direction: row;
+    margin-right: 18%;
+    position: relative;
+    background-image: url(../img/work-proc-bg.jpg);
+    background-size: 130% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 4%;
+    margin-top: 6%;
+}
+
+.texto8{
+    margin-left: 35%;
+    margin-top: 11%;
+    position: relative;
+    
+}
+.texto9{
+    margin-left: 36%;
+    display: flex;
+    flex-direction: row;
+}
+.texto10{
+    margin-left: -37%;
+    margin-right: 6%;
+    margin-top: 8%;
+    display: flex;
+    flex-direction: row;
+}
+
+.trio111{
+    margin-right: 6%;
+    margin-left: 15%;
+    color: rgb(193, 193, 194);
+}
+.trio333{
+    margin-right: 6%;
+    color: rgb(193, 193, 194);
+
+}
+.trio222{
+   
+    margin-left: 4%;
+    color: rgb(193, 193, 194);
+}
+.ti111{
+    color: rgb(193, 193, 194);
+    font-size: 20px;
+    text-align: left;
+    margin-left: 24%;
+    margin-top: -11%;
+}
+.ti222{
+    color:rgb(193, 193, 194);
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    line-height: 31px;
+}
+.ti333{
+    color: rgb(193, 193, 194);
+    font-size: 15px;
+    text-align: left;
+    line-height: 311%;
+    margin-left: 24%;
+    font-weight: 400;
+}
+.black{
+    background-color: rgba(20, 20, 20, 0.507);
+    position: absolute;
+    width: 100%;
+    padding-bottom: 39%;
+  
+}
+h6{
+    color:rgb(193, 193, 194);;
+    font-size: 42px;
+    text-align: left;
+    margin-left: -105%;
+    font-weight: 400;
+    border-left: 3px solid rgb(193, 193, 194);
+    padding-left: 2%;
+    margin-top: 0%;
+}
+.sete{
+    position: relative;
+}
+.team{
+    width: 100%;
+    margin-top: 0%;
+}
+.tiam{
+    color: rgb(104, 102, 102);
+    font-size: 42px;
+    text-align: left;
+    font-weight: 400;
+    border-left: 3px solid rgb(20, 20, 20);
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-top: 0%;
+    margin-left: 5%;
+    background-color: rgb(245, 245, 245);
+    position: absolute;
+    top: 12%;
+}
+.tiamm{
+    padding-left: 2%;
+    padding-top: 4%;
+    padding-bottom: 20%;
+    background-color: rgb(245, 245, 245)
+}
+.oito{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2%;
+    border-bottom: 1px solid rgb(179, 179, 179);
+   
+}
+.num{
+    color: rgb(122, 122, 122);
+    font-size: 41px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 8%;
+    margin-bottom: 10%;
+    margin-left: 17%;
+    padding-right: 8%;
+     
+}
+.num1{
+    color: rgb(122, 122, 122);
+    font-size: 41px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 8%;
+    margin-bottom: 10%;
+    padding-left: 4%;
+    padding-right: 4%;
+    border-left: 1px solid rgb(179, 179, 179);
+   
+}
+.num2{
+    color: rgb(122, 122, 122);
+    font-size: 41px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 8%;
+    margin-bottom: 10%;
+    padding-left: 4%;
+    padding-right: 4%;
+    border-left: 1px solid rgb(179, 179, 179);
+
+}
+.num3{
+    color: rgb(122, 122, 122);
+    font-size: 41px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 8%;
+    margin-bottom: 10%;
+    padding-left: 4%;
+    padding-right: 4%;
+    border-left: 1px solid rgb(179, 179, 179);
+}
+
+.ti55{
+    color: rgb(179, 179, 179);
+    font-size: 19px;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 50%;
+   
+} 
+.dez { 
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    margin-top: 10%;
+}
+
+.fes21{
+    position: absolute;
+    top: 61%;
+    left: 43%;
+    width: 48%;
+}
+.trio31{
+    margin-left: 21%;
+    margin-top: 10%; 
+    
+  
+}
+.trio41{
+    position:absolute;
+    top: 3%;
+    left: 54%;
+      
+}
+.ti21{
+    color: rgb(179, 179, 179);
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+}
+.ti211{
+    color: rgb(179, 179, 179);
+    font-size: 18px;
+    text-align: left;
+    font-weight: 400;
+    margin-left: 9%;
+    margin-right: -19%;
+}
+.fes31{
+    
+    width: 131%;
+}
+.ki{ 
+    color: rgb(104, 102, 102);
+    font-size: 55px;
+    text-align: left;
+    margin-left: 0%;
+    font-weight: 400;
+
+} 
+.ki1{ 
+    color: rgb(104, 102, 102);
+    font-size: 55px;
+    text-align: left;
+    margin-left: 10%;
+    font-weight: 400;
+    margin-top: 28%;
+
+} 
+.espacoss{
+    border-bottom: 3px solid rgb(20, 20, 20);
+    width: 12%;
+    padding-bottom: 2%;
+    margin-left: 10%;
+}
+.traco{
+    border-top: 1px solid rgb(231, 227, 227);
+    padding-left: 100%;
+    position: absolute;
+    top: 63%;
+    z-index: 20000;
+}
+button{
+    font-size: 18px;
+    background-color: rgba(255, 0, 0, 0);
+    border: 3px solid rgb(179, 179, 179);
+    color: rgb(182, 182, 182);
+    padding: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    margin-top: 9%;
+}
+.bo1{
+    font-size: 18px;
+    background-color: rgba(255, 0, 0, 0);
+    border: 3px solid rgb(179, 179, 179);
+    color: rgb(182, 182, 182);
+    padding: 3%;
+    padding-left: 6%;
+    padding-right: 6%;
+    margin-top: 9%;
+    margin-left: 8%;
+    
+
+}
+.onze { 
+    display: flex;
+    flex-direction: row;
+    margin-right: 18%;
+    position: relative;
+    background-image: url(../img/work-proc-bg.jpg);
+    background-size: 130% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-bottom: 2%;
+    padding-top: 20%;
+    margin-top: 16%;
+    z-index: 100;
+}
+.black1{
+    background-color: rgba(20, 20, 20, 0.507);
+    position: absolute;
+    width: 100%;
+    padding-top: 2%;
+    z-index: 1000;
+  
+}
+.fon{
+    position: absolute;
+    top: 15%;
+    left: 24%;
+    color: rgb(212, 212, 212);
+    font-size: 60px;
+    text-align: center;
+    font-weight: 200;
+    z-index: 20000;
+    margin-left: 0%;
+}
+.gg{
+       font-size: 82px;
+}
+.news{
+    color: rgb(104, 102, 102);
+    font-size: 42px;
+    text-align: left;
+    font-weight: 400;
+    border-left: 3px solid rgb(20, 20, 20);
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-top: 10%;
+    margin-left: 5%;  
+    
+}
+.doze{
+    position: relative;
+}
+
+.fto{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3%;
+}
+.fto1{
+    width: 30%;
+    margin-left: 2%;
+}
+.fto1:hover{
+    cursor:pointer;
+}
+.fto2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;    
+    margin-top: 2%;
+    font-size: 18px;
+    color: rgb(70, 70, 70);
+}
+.titulo{
+    margin-right: 20%;
+}
+.tituloo{
+    margin-left: -3%;
+}
+.titulo:hover,.tituloo:hover{
+    color: rgb(94, 93, 93);
+    cursor: pointer;
+}
+.fto3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;    
+    margin-top: 2%;
+    font-size: 15px;
+    color: rgb(156, 156, 156);
+    font-weight: 300;
+}
+.titulo1{
+    margin-right: 24%;
+}
+.fto4{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;    
+    margin-top: 2%;
+    font-size: 18px;
+    color: rgb(156, 156, 156);
+    font-weight: 500;
+    line-height: 25px;
+}
+.titulo2{
+    margin-right: 8%;
+    padding-bottom: 2%;
+    border-bottom: 1px solid rgb(231, 227, 227);
+}
+.tituloo2{
+    margin-left: -3%;
+    padding-bottom: 2%;
+    border-bottom: 1px solid rgb(231, 227, 227);
+}
+.fto5{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;    
+    margin-top: 1%;
+    font-size: 16px;
+    color: rgb(70, 70, 70);
+}
+.titulo3{
+    padding-right: 27%;
+    position: relative;
+}
+.tituloo3{
+    margin-left: -3%;
+    padding-right: 24%;
+    position: relative;
+}
+.onc{
+    position: absolute;
+    left: 68%;
+    top: 0%;
+}
+.onc1{
+    position: absolute;
+    left: 63%;
+    top: 0%;
+}
+.treze{ 
+    margin-right: 18%;
+    background-color: rgb(216, 210, 210);
+    background-size: 130% 100%;
+    width: 100%;
+    padding-bottom: 5%;
+    padding-top: 1%;
+    margin-top: 9%;
+ 
+}
+input[type=email]{
+    font-size: 30px;
+    outline: none;
+    width: 31%;
+    font-weight: 300;
+    padding-top: 1%;
+    padding-bottom:1%;
+    margin-left: 40%;
+    border: none;
+    border-bottom: 1px solid rgb(41, 41, 41);
+    background-color: rgba(100, 100, 100, 0);
+
+}
+.sub{
+    font-size: 18px;
+    background-color: rgb(100, 100, 100);
+    color: rgb(182, 182, 182);
+    padding: 1%;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-top: 9%;
+    margin-left: 2%;
+}
+.quatroze{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+    margin-bottom: 7%;
+}
+.finale1,.finale2{
+    margin-left: 10%;
+}
+.f1{
+    width: 66%;
+    margin-left: -8%;
+    margin-top: -14%;
+}
+.f2{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(97, 96, 94);
+}
+.f4{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(122, 122, 122);
+    text-decoration: none;
+}
+.f4:hover{
+    color: rgb(82, 81, 79);
+}
+.f5{
+    font-size: 22px;
+    font-weight: 900;
+    color: rgb(78, 77, 74);
+}
+.f66{
+    font-size: 18px;
+    font-weight: 900;
+    color: rgb(122, 122, 122);
+    text-decoration: none;
+}
+.f66:hover{
+    color: rgb(82, 81, 79);
+}
+.f6{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(122, 122, 122);
+    text-decoration: none;
+}
+.f6:hover{
+    color: rgb(82, 81, 79);
+}
+.f7{
+    font-size: 15px;
+    font-weight: 400;
+    color: rgb(122, 122, 122);
+}
+
+.footer{
+ 
+
+}
+.traco1{
+    border-top: 1px solid rgb(231, 227, 227);
+    padding-left: 76%;
+    margin-left: 9%;
+    margin-right: 21%;
+    margin-bottom: 2%;
+
+}
+.f8{
+   
+    padding-bottom: 4%;
+    margin-left: 10%;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(122, 122, 122);
+    text-decoration: none;
+}
+.f8:hover{
+    color: rgb(82, 81, 79);
+}
+.ines{
+    color: rgb(122, 122, 122);
+    margin-left: 76%;
+    margin-top: -2%;
+}
+.f9{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(82, 81, 79);
+    text-decoration: none;
+    margin-left: 2%;
+}
+.f9:hover{
+    color: rgb(122, 122, 122);
+    
+}
